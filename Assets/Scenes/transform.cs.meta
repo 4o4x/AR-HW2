@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7821c02822ae1460aa24a18152f88c72
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - transform_button: {fileID: 430759629474415189, guid: cc6ae83850a20453d9e807a132b73145, type: 3}
+  - prefab: {fileID: 8558706234178699193, guid: 1622c00c912a64710af983d7dd4348fb, type: 3}
+  - text1: {fileID: 6157866208673984870, guid: a582530c1d4504fc6881ba59781dc162, type: 3}
+  - text2: {fileID: 5486204733410253054, guid: acc5a5689522743ff90dbff4dba8d1b7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b8896368d61064141847102367024c7e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pPrefab: {fileID: 8245995612654611800, guid: 426ede686d3ee43a1ab1aadeffd730cf, type: 3}
+  - qPrefab: {fileID: 4155943443404714532, guid: 7b59251efedfd4cd1a855bd26786db1b, type: 3}
+  - readButton: {fileID: 430759629474415189, guid: cc6ae83850a20453d9e807a132b73145, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
